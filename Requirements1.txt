@@ -1,0 +1,5 @@
+✔ Python 3.8+
+✔ Streamlit, Transformers, PyPDF2, Torch, re(built-in)
+✔ 4GB+ RAM (8GB Recommended)
+✔ T5 Model (t5-small, t5-base, or t5-large)
+✔ Option to deploy on Streamlit Cloud, Hugging Face, or Heroku
